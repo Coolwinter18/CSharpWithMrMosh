@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{EAD0F1EF-732A-4A87-A713-99A534DEA8B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion", "TypeConversion\TypeConversion.csproj", "{9D7C294C-16A6-4AEC-AA5E-09E770537001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{8F101DCB-14F5-44C7-AACC-6C3219F53332}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{EAD0F1EF-732A-4A87-A713-99A534DEA8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAD0F1EF-732A-4A87-A713-99A534DEA8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAD0F1EF-732A-4A87-A713-99A534DEA8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D7C294C-16A6-4AEC-AA5E-09E770537001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7C294C-16A6-4AEC-AA5E-09E770537001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7C294C-16A6-4AEC-AA5E-09E770537001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7C294C-16A6-4AEC-AA5E-09E770537001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F101DCB-14F5-44C7-AACC-6C3219F53332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F101DCB-14F5-44C7-AACC-6C3219F53332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F101DCB-14F5-44C7-AACC-6C3219F53332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F101DCB-14F5-44C7-AACC-6C3219F53332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
