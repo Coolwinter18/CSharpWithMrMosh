@@ -102,7 +102,8 @@ namespace Variables
             Console.WriteLine("{ 0}{ 1}",float.MinValue,float.MaxValue);
             //sobre constantes 
             const float Pi = 3.14f;
-            Pi = 1; //instruccion no permitida... no puede asignarse algo a una constante.
+            //Pi = 1; 
+            //instruccion no permitida... no puede asignarse algo a una constante.
 
 
         }
