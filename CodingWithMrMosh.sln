@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion", "TypeConve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{8F101DCB-14F5-44C7-AACC-6C3219F53332}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharpForBeginners", "CSharpForBeginners", "{83233788-439B-4FF8-8C87-8C2B869EED65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharpForIntermediates", "CSharpForIntermediates", "{DF7DD8AE-67FA-4272-B937-414481690D9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +40,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{18986264-F896-4946-85B9-5473093CC9CC} = {83233788-439B-4FF8-8C87-8C2B869EED65}
+		{EAD0F1EF-732A-4A87-A713-99A534DEA8B4} = {83233788-439B-4FF8-8C87-8C2B869EED65}
+		{9D7C294C-16A6-4AEC-AA5E-09E770537001} = {83233788-439B-4FF8-8C87-8C2B869EED65}
+		{8F101DCB-14F5-44C7-AACC-6C3219F53332} = {83233788-439B-4FF8-8C87-8C2B869EED65}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {16CB64F3-DBF3-45D8-8667-E8456802E14C}
